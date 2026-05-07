@@ -1,6 +1,6 @@
 # 📱 Amazon Smartphones Analysis
 
-🌐 **Live App:** [Click here to open the dashboard](https://your-app-link.streamlit.app)
+🌐 **Live App:** [Click here to open the dashboard](https://amazon-egypt-phones-dashboard.streamlit.app/)
 
 A full end-to-end data science project that scrapes, cleans, analyzes, and visualizes smartphone listings from **Amazon Egypt** — presented through an interactive Streamlit dashboard.
 
@@ -171,6 +171,6 @@ Data Science & AI Engineer
 
 ## 🌐 Live Demo
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://your-app-link.streamlit.app)
+[![Streamlit App](https://amazon-egypt-phones-dashboard.streamlit.app/)
 
 > *Data scraped from Amazon Egypt for educational and analytical purposes only.*
