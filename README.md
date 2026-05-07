@@ -169,8 +169,4 @@ Data Science & AI Engineer
 
 ---
 
-## 🌐 Live Demo
-
-[![Streamlit App](https://amazon-egypt-phones-dashboard.streamlit.app/)
-
 > *Data scraped from Amazon Egypt for educational and analytical purposes only.*
